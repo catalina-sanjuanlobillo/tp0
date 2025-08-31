@@ -11,3 +11,4 @@ CRELEASE=-O3 -Wall -DNDEBUG
 
 # Source files (*.c) to be excluded from tests compilation
 TEST_EXCLUDE=src/main.c
+PROGRAM_NAME = tp0
